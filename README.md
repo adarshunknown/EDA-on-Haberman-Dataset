@@ -69,5 +69,5 @@ This project performs **Exploratory Data Analysis (EDA)** on the Haberman's Surv
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/adarshunknown/haberman-eda.git
+   git clone https://github.com/adarshunknown/EDA-on-Haberman-Dataset/blob/main.git
    cd haberman-eda
