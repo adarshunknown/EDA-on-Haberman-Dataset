@@ -20,8 +20,8 @@ This project performs **Exploratory Data Analysis (EDA)** on the Haberman's Surv
   - `Year`: Year of surgery (year - 1900)
   - `Nodes`: Number of positive axillary lymph nodes detected
   - `Survival_Status`:  
-    - `1` → survived   
-    - `2` → died 
+    - `1` → survived 5 years or longer
+    - `2` → died within 5 years
 
 ---
 
